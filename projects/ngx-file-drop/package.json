@@ -1,6 +1,6 @@
 {
   "name": "@bugsplat/ngx-file-drop",
-  "version": "14.0.0",
+  "version": "15.0.0",
   "description": "Angular ngx-file-drop - Simple desktop file drag and drop",
   "author": "@bobbyg603",
   "license": "MIT",
@@ -10,35 +10,14 @@
     "npm": ">= 7.0.0"
   },
   "keywords": [
-    "angular2",
-    "angular 2",
-    "angular4",
-    "angular 4",
-    "angular5",
-    "angular 5",
-    "angular6",
-    "angular 6",
-    "angular7",
-    "angular 7",
-    "angular8",
-    "angular 8",
-    "angular9",
-    "angular 9",
-    "angular10",
-    "angular 10",
-    "angular11",
-    "angular 11",
-    "angular12",
-    "angular 12",
-    "angular14",
-    "angular 14",
+    "angular",
     "file drop",
     "file upload",
     "typescript",
     "drag and drop"
   ],
   "peerDependencies": {
-    "@angular/common": ">=14.0.0",
-    "@angular/core": ">=14.0.0"
+    "@angular/common": ">=15.0.0",
+    "@angular/core": ">=15.0.0"
   }
 }
